@@ -23,3 +23,8 @@ MODS:
   - Relocated PSU under table
   - Relocated electronics to custom enclosure
   - various hotend duct/fan setups for 
+
+
+CURRENT ISSUES:
+- Need to calibrate E-Steps.
+- PiCam is not working. I had this issue before when I installed Moonraker with Kiauh. Looking for solution.
