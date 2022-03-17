@@ -6,6 +6,7 @@ I really knew what I was doing, but had a few things added through other people'
 
 So, started with a Creality Ender 5 Pro, 1.1.5.  
 MODS:
+
   Hardware
   - 3D Touch (BLTouch clone)
   - BigTreeTech SKR 2
@@ -13,6 +14,7 @@ MODS:
   - Glass bed
   - 5015 part fan
   - V6 Hotend (may be faulty)
+  
   Prints
   - Bed supports
   - Lower front rail for visibility
