@@ -10,21 +10,22 @@ MODS:
   Hardware
   - 3D Touch (BLTouch clone)
   - BigTreeTech SKR 2
+  - BMG Clone dual gear extruder
   - NEMA 17 pancake Extruder motor
-  - Glass bed
-  - 5015 part fan
-  - V6 Hotend (may be faulty)
+  - Dual 5015 part fan
+  - Anti-backlash/Gap elimination nut for Z-Axis.
+  - Phaetus Rapido
+  - Textured PEI bed
   
   Prints
   - Bed supports
-  - Lower front rail for visibility
-  - Rear extruder tower to shorten Bowden
-  - BMG Clone dual gear extruder
+  - Belt tensioners
   - Relocated PSU under table
   - Relocated electronics to custom enclosure
   - various hotend duct/fan setups for 
+  - Drawers attached to display
 
 
 CURRENT ISSUES:
-- Need to calibrate E-Steps.
-- PiCam is not working. I had this issue before when I installed Moonraker with Kiauh. Looking for solution.
+- Unable to connect an ADXL.
+- Getting regular vertical lines in prints on Y-axis faces.  Think it is the "salmon effect" from a failing motor.
