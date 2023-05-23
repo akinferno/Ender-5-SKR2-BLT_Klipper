@@ -1,6 +1,6 @@
 # Ender-5-SKR2-BLT_Klipper
 
-I decided this was a good idea to do, after accidentally ruining the cd card from my raspberry pi.
+I decided this was a good idea to do, after accidentally ruining the sd card from my Raspberry Pi.
 I am rebuilding my config, basically from scratch, with a few tidbits from an old backup from before
 I really knew what I was doing, but had a few things added through other people's Gits. 
 
