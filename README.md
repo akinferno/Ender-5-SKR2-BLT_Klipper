@@ -22,10 +22,5 @@ MODS:
   - Belt tensioners
   - Relocated PSU under table
   - Relocated electronics to custom enclosure
-  - various hotend duct/fan setups for 
+  - various hotend duct/fan setups  
   - Drawers attached to display
-
-
-CURRENT ISSUES:
-- Unable to connect an ADXL.
-- Getting regular vertical lines in prints on Y-axis faces.  Think it is the "salmon effect" from a failing motor.
